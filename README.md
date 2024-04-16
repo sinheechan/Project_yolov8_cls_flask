@@ -7,6 +7,8 @@ Flask는 웹 애플리케이션을 구축하는 데 필요한 핵심 기�
 
 이미지 분류 모델서빙을 진행하면서 torchvision에서 제공하는 분류모델의 성능과 특징 비교하는 것을 목적으로 모델을 생성합니다.
 <br /><br /> 
+<img src="image/car_result.png">
+<br /><br /> 
 ## torchvision_cls_model_probability
 
 
