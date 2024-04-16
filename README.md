@@ -12,7 +12,7 @@ Ultralytics의 YOLOv8 모델은 객체 감지를 위한 딥러닝 알고리즘�
 본 모델은 Flask를 사용하여 YOLO 모델을 웹 애플리케이션으로 배포하는 과정을 테스트합니다.
 <br /><br /> 
 
-<img src="image/car_result.png">
+<img src="image/car_result_vod.png">
 
 <br /><br /> 
 ## Pre_model
