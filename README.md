@@ -2,6 +2,7 @@
 
 Yolov8 객체감지 및 모니터링 결과 Flask_Web 배포 모델 생성 
 
+<br /><br /> 
 ## Object
 
 Flask는 웹 애플리케이션을 구축하는 데 필요한 핵심 기능을 제공합니다.
@@ -11,8 +12,8 @@ Ultralytics의 YOLOv8 모델은 객체 감지를 위한 딥러닝 알고리즘�
 본 모델은 Flask를 사용하여 YOLO 모델을 웹 애플리케이션으로 배포하는 과정을 테스트합니다.
 <br /><br /> 
 <img src="image/car_result.png">
-<br /><br /> 
 
+<br /><br /> 
 ## Pre_model
 
 이 API에서 사용되는 모델은 COCO(Common Objects in Context) 데이터셋을 통해 사전 학습된 모델입니다.
