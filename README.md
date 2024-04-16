@@ -1,5 +1,6 @@
 # Project_yolov8_cls_flask
 
+Yolov8 객체감지 및 모니터링 결과 Flask_Web 배포 모델 생성 
 
 ## Object
 
