@@ -11,6 +11,7 @@ Ultralytics의 YOLOv8 모델은 객체 감지를 위한 딥러닝 알고리즘�
 
 본 모델은 Flask를 사용하여 YOLO 모델을 웹 애플리케이션으로 배포하는 과정을 테스트합니다.
 <br /><br /> 
+
 <img src="image/car_result.png">
 
 <br /><br /> 
@@ -24,7 +25,13 @@ COCO 데이터 세트는 대규모 객체 감지, 분할 및 캡션 데이터 �
 
 모델에 대한 자세한 설명은 아래 모델 설명서를 참고하여 주시기 바랍니다.
 
-[링크] https://docs.ultralytics.com/datasets/detect/coco/#sample-images-and-annotations
+
+## Model_Introduce
+
+- [Detection] https://docs.ultralytics.com/tasks/detect
+- [Segmentation] https://docs.ultralytics.com/tasks/segment
+- [Classification] https://docs.ultralytics.com/tasks/classify
+- [COCO] https://docs.ultralytics.com/datasets/detect/coco
 
 <br /><br /> 
 ## Libraries used / Version
@@ -33,6 +40,7 @@ COCO 데이터 세트는 대규모 객체 감지, 분할 및 캡션 데이터 �
 - opencv-python 4.9.0.80
 - ultralytics 8.1.47
 - jsonify
+- requirements
 
 <br /><br /> 
 ## Result
